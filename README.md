@@ -1,2 +1,2 @@
 # prettier-config
-Конфигурация Pretter
+Pretter configuration
